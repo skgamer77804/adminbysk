@@ -17,9 +17,7 @@
     "updateRequired": false,
     "updateUrl": "https://t.me/Skgamer04"
   },
-  "BannedHWIDs": {
-    "EXAMPLE_BANNED_HWID": "Attempted Smali Bypass"
-  },
+  "BannedHWIDs": {},
   "Keys": {
     "Admin": {
       "hwid": "B8763C974CAA6DE6",
